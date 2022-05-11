@@ -41,6 +41,7 @@ Exchanges with support for Lightning Network
 - [CardCoins](https://www.cardcoins.co) ([⚡](https://lightningnetworkstores.com/wallets)) ← Fom 80,000 retail [locations](https://map.cardcoins.co) in U.S, [Announcement](http://www.prweb.com/releases/2021/12/prweb18395364.htm)
 - [Striga Personal](https://striga.com/personal) ([⚡](https://lightningnetworkstores.com/wallets)) [Coming Soon] <-- [Early Access](https://striga.com/about/#t_action)
 - [xSats](https://xsats.com), when operations resume, is planning on LN ([⚡](https://lightningnetworkstores.com/wallets)) support
+- [BitcoinVN](https://bitcoinvn.io?deposit=btcln) ([⚡](https://lightningnetworkstores.com/wallets)) [**NO KYC**] <-- Vietnam
 
 **P2P Trading Platforms with support for Lightning network [⚡](https://lightningnetworkstores.com/wallets)**
 
